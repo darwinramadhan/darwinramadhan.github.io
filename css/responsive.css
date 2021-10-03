@@ -52,7 +52,6 @@
   }
 
   .socialIcon {
-    padding-bottom: 100px !important;
     left: 50%;
     transform: translate(-50%);
   }
@@ -105,7 +104,7 @@
   .socialIcon {
     left: 50%;
     transform: translate(-50%);
-    margin-top: 30px !important;
+    margin-top: 50px !important;
   }
 
   .socialIcon a {
