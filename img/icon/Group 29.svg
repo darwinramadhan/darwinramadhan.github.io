@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="588" viewBox="0 0 400 588">
+  <g id="Group_29" data-name="Group 29" transform="translate(-297 -2793)">
+    <g id="Path_7" data-name="Path 7" transform="translate(297 2793)" fill="#00e5ff">
+      <path d="M 399.5 587.5 L 0.5 587.5 L 0.5 0.5 L 399.5 0.5 L 399.5 587.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 587 L 399 587 L 399 1 L 1 1 M 0 0 L 400 0 L 400 588 L 0 588 L 0 0 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+</svg>
