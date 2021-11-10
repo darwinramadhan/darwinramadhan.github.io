@@ -125,6 +125,7 @@ hr {
   min-height: 600px;
   width: 100%;
   color: white;
+  overlay-x: hidden;
 }
 
 #skill img {
@@ -160,6 +161,7 @@ hr {
   background-image: linear-gradient(var(--mainColor), #000000, var(--mainColor));
   margin-top: -160px;
   padding-top: 280px;
+  overlay-x: hidden;
 }
 
 #sertifikat img {
